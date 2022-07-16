@@ -3,7 +3,7 @@
   <img align="center" src="https://readme-typing-svg.herokuapp.com?color=6533F7&size=28&width=500&duration=3000&height=81&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Ezequiel+Rango"/>
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ezequielrango&label=Profile%20views&color=0e75b6&style=flat" alt="ezequielrango" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ezequielrango&label=Profile%20views&color=D61C4E&style=flat" alt="ezequielrango" /> :trollface: </p>
 
 
 <h3 align="center">A passionate fullStack developer from Argentina</h3>
@@ -21,7 +21,7 @@
 
 <p align="center">
 
-<img src="https://activity-graph.herokuapp.com/graph?username=ezequielrango&bg_color=2f2641&color=DAF7A6&line=7d3c98&point=4a148c&area=true&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=ezequielrango&bg_color=2f2641&color=FEB139&line=D61C4E&point=4a148c&area=true&hide_border=true">
 
 </p>
 
