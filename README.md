@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ezequiel Rango</h1>
+
+<h1 align="center">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=6533F7&size=28&width=500&height=81&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Ezequiel+Rango"/>
+</h1>
+
+
 <h3 align="center">A passionate fullStack developer from Argentina</h3>
+<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezequielrango&show_icons=true&theme=tokyonight&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielrango&layout=compact&theme=tokyonight)](https://github.com/ezequielrango/github-readme-stats)
