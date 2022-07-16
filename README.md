@@ -9,8 +9,22 @@
 <h3 align="center">A passionate fullStack developer from Argentina</h3>
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezequielrango&show_icons=true&theme=tokyonight&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielrango&layout=compact&theme=tokyonight)](https://github.com/ezequielrango/github-readme-stats)
+
+
+<p>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ezequielrango&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ezequielrango&show_icons=true&card_width=400&height=600&theme=tokyonight&      include_all_commits=true" />
+</p>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielrango&layout=compact&card_width=1000&theme=tokyonight)](https://github.com/ezequielrango/github-readme-stats)
+
+<p align="center">
+
+<img src="https://activity-graph.herokuapp.com/graph?username=ezequielrango&bg_color=2f2641&color=DAF7A6&line=7d3c98&point=4a148c&area=true&hide_border=true">
+
+</p>
+
 
 
 - 🔭 I’m currently working on [ApiMusic](https://github.com/ezequielrango/ApiMusic)
@@ -25,6 +39,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ezequiel-rango/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ezequiel-rango/" height="30" width="40" /></a>
 </p>
+
+
 
 ### Languages and Tools :hammer: :
 
@@ -45,3 +61,8 @@
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Digital House Programación Web Full-Stack :rocket:
 
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Alkemy NodeJS :rocket:
+
+
+
+
+<h3 align="center"> 🧉 Fun fact: I'm always drinking mate! 🧉 </h3>
