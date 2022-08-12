@@ -13,9 +13,8 @@
 
 <p>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ezequielrango&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ezequielrango&show_icons=true&card_width=400&height=600&theme=tokyonight&      include_all_commits=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ezequielrango&show_icons=true&card_width=400&height=600&theme=tokyonight" />
 </p>
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielrango&layout=compact&card_width=1000&theme=tokyonight)](https://github.com/ezequielrango/github-readme-stats)
 
