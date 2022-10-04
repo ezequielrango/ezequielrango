@@ -28,7 +28,7 @@
 
 - 🔭 I’m currently working on [ApiMusic](https://github.com/ezequielrango/ApiMusic)
 
-- 🌱 I’m currently learning **ReactJs,PHP**
+- 🌱 I’m currently learning **ReactJs,Redux,PHP**
 
 - 💬 Ask me about **Javascript,NodeJs,CSS3,HTML5,MySQL**
 
@@ -49,9 +49,9 @@
 
 ### Formal education and certifications :books:  :point_down: : 
 
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/40) Avalith NodeJS :sparkles:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/85) Avalith NodeJS :sparkles:
  
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/25) Avalith ReactJS :sparkles:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/50) Avalith ReactJS :sparkles:
 
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Bootcamp QA Manual Bolsa de Comercio de Rosario :bug: 
 
