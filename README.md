@@ -51,7 +51,7 @@
 
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Avalith NodeJS :sparkles:
  
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60) Avalith ReactJS :sparkles:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Avalith ReactJS :sparkles:
 
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Bootcamp QA Manual Bolsa de Comercio de Rosario :bug: 
 
