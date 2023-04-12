@@ -28,7 +28,7 @@
 
 - 🔭 I’m currently working on [ApiMusic](https://github.com/ezequielrango/ApiMusic)
 
-- 🌱 I’m currently learning **ReactJs,Redux,PHP**
+- 🌱 I’m currently learning **ReactJs,Redux,Vue**
 
 - 💬 Ask me about **Javascript,NodeJs,CSS3,HTML5,MySQL**
 
