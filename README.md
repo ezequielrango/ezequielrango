@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezequielrango&label=Profile%20views&color=D61C4E&style=flat" alt="ezequielrango" /> :trollface: </p>
 
 
-<h3 align="center">A passionate fullStack developer from Argentina</h3>
+<!-- <h3 align="center">A passionate fullStack developer from Argentina</h3> -->
 <br/>
 
 
@@ -25,13 +25,13 @@
 </p>
 
 
-
+<!-- 
 - 🔭 I’m currently working on [ApiMusic](https://github.com/ezequielrango/ApiMusic)
-
+ -->
 - 🌱 I’m currently learning **ReactJs,Redux,Vue**
 
-- 💬 Ask me about **Javascript,NodeJs,CSS3,HTML5,MySQL**
-
+<!-- - 💬 Ask me about **Javascript,NodeJs,CSS3,HTML5,MySQL**
+ -->
 - 📫 How to reach me **ezequielrango29@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
