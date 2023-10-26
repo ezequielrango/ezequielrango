@@ -62,7 +62,7 @@
 
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Bootcamp QA Manual Bolsa de Comercio de Rosario :bug: 
 
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/80) Tecnicatura en Desarrollo de Software 2/3 años :mortar_board:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/95) Tecnicatura en Desarrollo de Software 3 años :mortar_board:
 
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Digital House Programación Web Full-Stack :rocket:
 
