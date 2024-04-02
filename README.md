@@ -56,20 +56,20 @@
 
 ### Formal education and certifications :books:  :point_down: :  -->
 
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Avalith NodeJS :sparkles:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Avalith NodeJS 
  
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Avalith ReactJS :sparkles:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Avalith ReactJS 
 
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Bootcamp QA Manual Bolsa de Comercio de Rosario :bug: 
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Bootcamp QA Manual Bolsa de Comercio de Rosario 
 
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Tecnicatura en Desarrollo de Software 3 años :mortar_board:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Tecnicatura en Desarrollo de Software 3 años 
 
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Digital House Programación Web Full-Stack :rocket:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Digital House Programación Web Full-Stack
 
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Alkemy NodeJS :rocket:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Alkemy NodeJS
 
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Fernando Herrera | Principios Solid & Clean Code :sparkles:
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Fernando Herrera | Principios Solid & Clean Code 
 
 
 
-<!-- <h3 align="center"> 🧉 Fun fact: I'm always drinking mate! 🧉 </h3> -->
+<!-- <h3 align="center"> 🧉  </h3> -->
