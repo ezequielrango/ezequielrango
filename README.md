@@ -55,20 +55,21 @@
 
 
 ### Formal education and certifications :books:  :point_down: :  -->
-
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Avalith NodeJS 
- 
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Avalith ReactJS 
-
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Bootcamp QA Manual Bolsa de Comercio de Rosario 
-
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Tecnicatura en Desarrollo de Software 3 años 
-
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Digital House Programación Web Full-Stack
-
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Alkemy NodeJS
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/20) Licenciatura en Ciencias de Datos 
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Tecnicatura en Desarrollo de Software 
 
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Fernando Herrera | Principios Solid & Clean Code 
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Digital House Programación Web Full-Stack
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Avalith NodeJS 
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Avalith ReactJS 
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Alkemy NodeJS
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Bootcamp QA Manual Bolsa de Comercio de Rosario 
+ 
+
+
+
+
+
 
 
 
