@@ -55,7 +55,7 @@
 
 
 ### Formal education and certifications :books:  :point_down: :  -->
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/20) Licenciatura en Ciencias de Datos 
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/33) Licenciatura en Ciencias de Datos 
 
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Tecnicatura en Desarrollo de Software 
 
