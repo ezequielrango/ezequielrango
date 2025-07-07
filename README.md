@@ -59,7 +59,6 @@
 
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Tecnicatura en Desarrollo de Software 
 
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Fernando Herrera | Principios Solid & Clean Code 
 
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Digital House Programación Web Full-Stack
 
