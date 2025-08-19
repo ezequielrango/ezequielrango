@@ -23,7 +23,7 @@ Limpio, modular y fácil de mantener
 <!-- --------------------------------- -->
 <p align="center">
   🇦🇷 Rosario, AR • Enfocado en Go, Python, Vue (TS), PostgreSQL y AWS •
-  Apasionado por buenas prácticas (SOLID, Clean Architecture) y DX.
+  Interesado por buenas prácticas (SOLID, Clean Architecture), concurrencia y demás.
 </p>
 
 <ul>
