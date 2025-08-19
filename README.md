@@ -1,81 +1,154 @@
+<!-- -----------------------------------------------------------
+README – Ezequiel Rango
+Limpio, modular y fácil de mantener
+------------------------------------------------------------ -->
 
 <h1 align="center">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?color=6533F7&size=28&width=500&duration=3000&height=81&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Ezequiel+Rango"/>
+  <img align="center"
+       src="https://readme-typing-svg.herokuapp.com?color=6533F7&size=24&width=720&duration=7000&height=70&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Ezequiel+Rango;Full-Stack+Developer+%7C+Data+Science" />
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ezequielrango&label=Profile%20views&color=D61C4E&style=flat" alt="ezequielrango" /> :trollface: </p>
+<p align="center">
+  <a href="https://github.com/ezequielrango?tab=followers">
+    <img src="https://img.shields.io/github/followers/ezequielrango?label=Followers&style=flat&color=6533F7" />
+  </a>
+  <a href="https://github.com/ezequielrango?tab=repositories">
+    <img src="https://img.shields.io/github/stars/ezequielrango?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=D61C4E" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ezequielrango&label=Profile%20views&color=D61C4E&style=flat" alt="views" />
+</p>
 
+<!-- --------------------------------- -->
+<!-- Sobre mí -->
+<!-- --------------------------------- -->
+<p align="center">
+  🇦🇷 Rosario, AR • Enfocado en Go, Python, Vue (TS), PostgreSQL y AWS •
+  Apasionado por buenas prácticas (SOLID, Clean Architecture) y DX.
+</p>
 
-<!-- <h3 align="center">A passionate fullStack developer from Argentina</h3> -->
-<br/>
+<ul>
+  <li>🔭 Últimamente metido en <b>backends en Go</b>, <b>ETL / data</b> con Python y <b>Vue 3</b>.</li>
+  <li>🌱 Aprendiendo: <b>Ciencia de Datos, IA, Machine Learning</b>, <b>SOLID</b> y <b>Clean Code</b>.</li>
+  <li>💬 Hablemos de: Go, Python, IA</li>
+  <li>📫 <a href="https://www.linkedin.com/in/ezequiel-rango/" target="_blank">LinkedIn</a></li>
+</ul>
 
+<!-- --------------------------------- -->
+<!-- Tech Stack con Íconos -->
+<!-- --------------------------------- -->
 
+### ⚙️ Tech Stack
+
+<!-- Lenguajes -->
+**Languages**
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"       title="Go"        alt="Go"        width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"    alt="Python"    width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
+</div>
+
+<!-- Frontend -->
+**Frontend**
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"   title="Vue"     alt="Vue"     width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt"    alt="Nuxt"    width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"   title="React"   alt="React"   width="40" height="40"/>
+</div>
+
+<!-- Backend -->
+**Backend**
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js"  alt="Node.js"  width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" title="Express"  alt="Express"  width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" title="Sequelize" alt="Sequelize" width="40" height="40"/>
+</div>
+
+<!-- Data / IA -->
+**Data / ML**
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" title="Pandas"   alt="Pandas"   width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"   title="NumPy"    alt="NumPy"    width="40" height="40"/>
+</div>
+
+<!-- DB -->
+**Databases**
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"   title="MySQL"    alt="MySQL"    width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" title="MongoDB"  alt="MongoDB"  width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"   title="Redis"    alt="Redis"    width="40" height="40"/>
+</div>
+
+<!-- DevOps / Tools -->
+**DevOps / Tools**
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" title="Docker"    alt="Docker"    width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"       title="Git"       alt="Git"       width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"   title="Linux"     alt="Linux"     width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"     title="Bash"      alt="Bash"      width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" title="NPM"    alt="NPM"       width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VSCode"    alt="VSCode"    width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg"   title="Slack"     alt="Slack"     width="40" height="40"/>
+</div>
+
+<!-- --------------------------------- -->
+<!-- Stats -->
+<!-- --------------------------------- -->
+
+### 📊 GitHub Stats
 
 <p>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ezequielrango&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ezequielrango&show_icons=true&card_width=400&height=600&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ezequielrango&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ezequielrango&show_icons=true&theme=tokyonight" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielrango&layout=compact&card_width=1000&theme=tokyonight)](https://github.com/ezequielrango/github-readme-stats)
+<!-- Lenguajes más usados -->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielrango&layout=compact&langs_count=10&theme=tokyonight" />
+</p>
 
+<!-- Actividad (usa el fork vercel; si no carga, comentar) -->
 <p align="center">
-
-<img src="https://activity-graph.herokuapp.com/graph?username=ezequielrango&bg_color=2f2641&color=FEB139&line=D61C4E&point=4a148c&area=true&hide_border=true">
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ezequielrango&theme=dracula&area=true&hide_border=true" />
 </p>
 
+<!-- --------------------------------- -->
+<!-- Educación -->
+<!-- --------------------------------- -->
 
-<!-- 
-- 🔭 I’m currently working on [ApiMusic](https://github.com/ezequielrango/ApiMusic)
- -->
-- 🌱 I’m currently learning **Vue, Docker, Python, Golang, SOLID and Clean Code**
+### 🎓 Educación y certificaciones
+- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/66) **Licenciatura en Ciencias de Datos**
+- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) **Tecnicatura en Desarrollo de Software**
+- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) **Digital House – Programación Web Full-Stack**
+- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) **Avalith – NodeJS**
+- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) **Avalith – ReactJS**
+- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) **Alkemy – NodeJS**
+- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) **Bolsa de Comercio de Rosario – Bootcamp QA Manual**
 
-<!-- - 💬 Ask me about **Javascript,NodeJs,CSS3,HTML5,MySQL**
- -->
+<!-- --------------------------------- -->
+<!-- Contacto -->
+<!-- --------------------------------- -->
 
-
-<h3 align="left">Connect with me:</h3>
+### 🤝 Conectemos
 <p align="left">
-<a href="https://www.linkedin.com/in/ezequiel-rango/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ezequiel-rango/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ezequiel-rango/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
 
+<!-- --------------------------------- -->
+<!-- Extras opcionales -->
+<!-- --------------------------------- -->
+<!--
+- 🧩 Pinned projects:
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=ezequielrango&repo=REPO_NAME&theme=tokyonight)](https://github.com/ezequielrango/REPO_NAME)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=ezequielrango&repo=REPO_NAME&theme=tokyonight)](https://github.com/ezequielrango/REPO_NAME)
 
+- 🏆 Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ezequielrango&theme=dracula&no-frame=true&row=1&column=6" />
+</p>
+-->
 
-### Languages and Tools :hammer: :
-
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" alt="bash" width="40" height="40"/> 
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/slack/slack-original.svg" alt="bash" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sequelize/sequelize-original.svg" alt="bash" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" alt="bash" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" alt="bash" width="40" height="40"/> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> </p>
-
-
-### Formal education and certifications :books:  :point_down: : 
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/66) Licenciatura en Ciencias de Datos 
-
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Tecnicatura en Desarrollo de Software 
-
-
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Digital House Programación Web Full-Stack
-
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Avalith NodeJS 
-
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Avalith ReactJS 
-
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Alkemy NodeJS
-
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Bootcamp QA Manual Bolsa de Comercio de Rosario 
- 
-
-
-
-
-
-
-
-
-<!-- <h3 align="center"> 🧉  </h3> -->
