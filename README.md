@@ -119,7 +119,7 @@ Limpio, modular y fácil de mantener
 <!-- --------------------------------- -->
 
 ### 🎓 Educación y certificaciones
-- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/66) **Licenciatura en Ciencias de Datos**
+- ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) **Licenciatura en Ciencias de Datos**
 - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) **Tecnicatura en Desarrollo de Software**
 - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) **Digital House – Programación Web Full-Stack**
 - ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) **Avalith – NodeJS**
