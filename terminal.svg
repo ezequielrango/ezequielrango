@@ -32,7 +32,7 @@
     <clipPath id="textClip">
       <rect x="0" y="-15" class="terminal-text" height="20"/>
     </clipPath>
-    <text x="16" font-family="'SF Mono', 'Fira Code', 'Consolas', monospace" font-size="13" fill="#374151" clip-path="url(#textClip)">i use claude code in light mode</text>
+    <text x="16" font-family="'SF Mono', 'Fira Code', 'Consolas', monospace" font-size="13" fill="#374151" clip-path="url(#textClip)">ia agents rag skilss machine learning</text>
     <!-- Blinking cursor -->
     <rect x="290" y="-12" width="8" height="15" fill="#8b5cf6" class="cursor"/>
   </g>
