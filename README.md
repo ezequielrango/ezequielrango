@@ -8,6 +8,9 @@ Limpio, modular y fácil de mantener
        src="https://readme-typing-svg.herokuapp.com?color=6533F7&size=24&width=720&duration=7000&height=70&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Ezequiel+Rango;Full-Stack+Developer+%7C+Data+Science" />
 </h1>
 
+<h1 align="center">
+<img align="center" src="terminal.svg" alt="I'm Ezequiel Rango Software Developer + Data Science"/>
+</h1>
 <p align="center">
   <a href="https://github.com/ezequielrango?tab=followers">
     <img src="https://img.shields.io/github/followers/ezequielrango?label=Followers&style=flat&color=6533F7" />
