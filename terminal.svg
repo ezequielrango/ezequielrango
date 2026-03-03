@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="340" height="50" viewBox="0 0 340 50">
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="50" viewBox="0 0 340 50">
   <style>
     @keyframes typing {
       from { width: 0 }
-      to { width: 270px }
+      to { width: 370px }
     }
     @keyframes blink {
       0%, 50% { opacity: 1 }
